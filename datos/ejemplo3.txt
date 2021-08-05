@@ -1,0 +1,6 @@
+código país idioma
+1 Francia Francés
+3 Francia Francés
+6 USA Inglés
+8 UK Inglés
+9 UK Inglés

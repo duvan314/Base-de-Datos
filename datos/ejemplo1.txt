@@ -1,0 +1,7 @@
+cédula nombre salario
+256 Lina 100
+943 Carlos 110
+119 Juan 50
+221 Juan 60
+333 María 50
+888 Juan 50
